@@ -1,4 +1,11 @@
-# co0134159a4b3aa2ca24b657d
+# Digital Business Card
+
+This repository holds my first react application - a digital business card. The links send users to the base websites instead of my personal profiles.
+I will update the links in my future iterations to hold my profile links.
+
+![digital-business-card](https://github.com/Shonsanchez/digital-business-card/assets/5124337/51b6f28d-3638-476a-b778-0c50bb4f80d3)
+
+
 
 Quick start:
 
